@@ -12,7 +12,7 @@ body {
 .wrapper {
     max-width: 960px;
     margin: 0 auto;
-    padding: 10%;
+    padding: 8%;
     background: #F0E68C;
     box-shadow: rgb(148, 148, 148) 5px 8px 5px;
 }
@@ -85,13 +85,13 @@ font-family: 'Playfair Display', serif;
     list-style-type: none;
 }
 .item:nth-child(2) {
-    margin-top: 220px;
+    margin-top: 260px;
 }
 .item:nth-child(5) {
-    margin-top: 30px;
+    margin-top: 75px;
 }
 .item:nth-child(6) {
-    margin-top: 35px;
+    margin-top: 130px;
 }
 .item-content ul {
     padding-bottom: 15px;
