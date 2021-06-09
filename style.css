@@ -34,21 +34,21 @@ i {
   letter-spacing: 5px;
 }
 .title span {
-    position: absolute;
-    top: 29px;
-    left: 116px;
-    font-size: 13px;
-  }
-  .title div {
-      position: absolute;
-      left: 320px;
-      top: 30px;
-      font-size: 1.3em;
-  }
-  .title div p {
-      letter-spacing: 6px;
-      writing-mode: vertical-lr;
-  }
+  position: absolute;
+  top: 29px;
+  left: 116px;
+  font-size: 13px;
+}
+.title div {
+  position: absolute;
+  left: 320px;
+  top: 30px;
+  font-size: 1.3em;
+}
+.title div p {
+  letter-spacing: 6px;
+  writing-mode: vertical-lr;
+}
 h4 I {
   font-family: "Playfair Display", serif;
 }
